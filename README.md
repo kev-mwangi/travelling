@@ -14,7 +14,6 @@ Traveling is a great way to explore new places, cultures, and experiences. Wheth
 - **Toiletries**: Travel-sized toiletries, medications, and any personal care items you need.
 - **Electronics**: Phone, charger, adapter, and any other devices you might need.
 - **Travel Accessories**: Passport holder, reusable water bottle, travel pillow, and any other gadgets that make your trip more comfortable.
-
 ## Accommodation Options
 - **Hotels**: Book in advance for better prices and availability.
 - **Hostels**: Great for budget travelers, often with social atmospheres.
